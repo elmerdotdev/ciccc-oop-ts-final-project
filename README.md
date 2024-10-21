@@ -17,7 +17,7 @@
 - Use classes, fiels, and methods for the different functionalities of your app.
 For example:
 
-  - `class Task {}` - To create new instances of a task
+  - `class TaskList {}` - To create a new instance of tasks
   - `this.tasks = []` - Store your tasks in a list
   - `add(newTask)` - Creates a new task
   - `update(id)` - Updates a task
