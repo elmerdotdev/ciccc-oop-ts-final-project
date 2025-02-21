@@ -14,7 +14,7 @@
 
 ## Requirements ✅
 
-- Use classes, fiels, and methods for the different functionalities of your app.
+- You can use functions or you can also use classes (recommended), fields, and methods for the different functionalities of your app.
 For example:
 
   - `class TaskList {}` - To create a new instance of tasks
